@@ -3,4 +3,4 @@ class Test:
     pass
 
   def sample_method(self):
-    pass
+    print("Hello word")
